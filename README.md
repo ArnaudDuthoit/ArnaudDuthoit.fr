@@ -1,5 +1,5 @@
 # ArnaudDuthoit.fr
 
-Code source de mon site personnel ArnaudDuthoit.fr
+Code source de la premiere version de mon portfolio uniquement en HTML, CSS et JS
 
-Ce site est ni plus ni moins que mon portfolio.
+Aucun framework, only vanilla.
